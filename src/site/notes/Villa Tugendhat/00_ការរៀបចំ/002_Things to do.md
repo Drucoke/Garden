@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/villa-tugendhat/00/002-things-to-do/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/villa-tugendhat/00/002-things-to-do/","tags":["gardenEntry"]}
 ---
 
 - [ ] Research
