@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/villa-tugendhat/01/001-research/002-villa-tugendhat/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/villa-tugendhat/01/001-research/002-villa-tugendhat/","tags":["gardenEntry"]}
 ---
 
 ![images.jpg](/img/user/Villa%20Tugendhat/02_Data/images.jpg)
