@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/villa-tugendhat/01/001-research/001-history-of-the-architect-ludwig-mies-van-der-rohe/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/villa-tugendhat/01/001-research/001-history-of-the-architect-ludwig-mies-van-der-rohe/","tags":["gardenEntry"]}
 ---
 
 លោក Ludwig Mies Van Der Rohe
